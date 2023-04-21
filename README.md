@@ -1,11 +1,13 @@
 # todo-node-app
 All-app application made in node, to schedule tasks, list tasks and complete tasks
 
-## It is necessary to have the following packages installed for this to work
+## You need to install the dependencies for it to work. 
 ```
-npm i colors
-npm i uuid
-npm i inquirer
+colors
+uuid
+inquirer
+
+use: npm install
 ```
 ## Run ▶️
 
